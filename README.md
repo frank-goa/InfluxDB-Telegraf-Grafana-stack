@@ -68,6 +68,6 @@ docker-compose up -d
 [**Grafana-OSS**](https://hub.docker.com/r/grafana/grafana-oss) / `8.4.3`
 
 ### Important links
-https://docs.influxdata.com/influxdb/v2/reference/cli/influx/setup/
-https://grafana.com/grafana/dashboards/
-https://docs.influxdata.com/telegraf/v1/
+- https://docs.influxdata.com/influxdb/v2/reference/cli/influx/setup/
+- https://grafana.com/grafana/dashboards/
+- https://docs.influxdata.com/telegraf/v1/
